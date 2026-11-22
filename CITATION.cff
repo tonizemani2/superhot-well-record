@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this record, please cite it as below."
+title: "Superhot well record: casing outcomes of 21 superhot and high-temperature geothermal wells, read at source"
+version: "1.0.0"
+date-released: "2026-11-20"
+type: dataset
+authors:
+  - family-names: Zemani
+    given-names: Toni
+abstract: >-
+  Casing programme, connections, cement record, thermal load history, outcome
+  and failure mode of 21 geothermal wells, each row with the documents that
+  hold it, and a synthesis of mechanism claims against quotations from the
+  primary literature.
+keywords:
+  - superhot geothermal
+  - casing failure
+  - well integrity
+  - IDDP-1
+license: CC-BY-4.0
+repository-code: "https://github.com/tonizemani2/superhot-well-record"

@@ -1,0 +1,63 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Dataset",
+ "name": "Superhot and high-temperature geothermal well casing record",
+ "description": "21 wells drilled into or near supercritical conditions, or instrumented during discharge, each read at source: casing programme, connections, cement record, thermal load history, outcome and failure mode, with the documents that hold them. 7 failed, 10 intact, 2 never cycled, 2 open.",
+ "version": "1.0.0",
+ "datePublished": "2026-11-20",
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "creator": {
+  "@type": "Person",
+  "name": "Toni Zemani",
+  "affiliation": {
+   "@type": "Organization",
+   "name": "Zemanium"
+  }
+ },
+ "keywords": [
+  "superhot geothermal",
+  "casing failure",
+  "IDDP-1",
+  "well integrity",
+  "supercritical geothermal"
+ ],
+ "variableMeasured": [
+  "well",
+  "field_country",
+  "t_max_c",
+  "t_basis",
+  "casing",
+  "connections",
+  "cement_record",
+  "load_history",
+  "outcome",
+  "mode",
+  "measured_response",
+  "sources",
+  "completeness",
+  "next_document"
+ ],
+ "distribution": [
+  {
+   "@type": "DataDownload",
+   "encodingFormat": "text/csv",
+   "contentUrl": "inventory.csv"
+  },
+  {
+   "@type": "DataDownload",
+   "encodingFormat": "application/json",
+   "contentUrl": "inventory.json"
+  }
+ ],
+ "isBasedOn": [
+  "https://compass-geothermal.eu/isors-flexible-couplings-technology-recognized-for-geothermal-innovation",
+  "https://doi.org/10.1016/j.geothermics.2016.02.002",
+  "https://doi.org/10.1186/s40517-018-0113-4",
+  "https://doi.org/10.3384/ecp17138391",
+  "https://doi.org/10.5194/sd-23-1-2017",
+  "https://gdr.openei.org/submissions/775",
+  "https://isor.is/en/frettir/isor-tilnefnt-til-evropskra-nyskopunarverdlauna-2",
+  "https://opinvisindi.is/items/2a1661c9-f370-47de-9d65-e0a6555596c0",
+  "https://pangea.stanford.edu/ERE/db/GeoConf/papers/SGW/2026/Kibikas.pdf"
+ ]
+}

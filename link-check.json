@@ -1,0 +1,195 @@
+{
+ "record_type": "well_record_link_check",
+ "checked": 31,
+ "distinct_urls": 9,
+ "failed": [],
+ "pass": true,
+ "rows": [
+  {
+   "row": "IDDP-1",
+   "url": "https://opinvisindi.is/items/2a1661c9-f370-47de-9d65-e0a6555596c0",
+   "ok": true,
+   "detail": "http 200"
+  },
+  {
+   "row": "IDDP-1",
+   "url": "https://doi.org/10.1016/j.geothermics.2016.02.002",
+   "ok": true,
+   "detail": "doi registry code 1"
+  },
+  {
+   "row": "IDDP-1",
+   "url": "https://doi.org/10.1186/s40517-018-0113-4",
+   "ok": true,
+   "detail": "doi registry code 1"
+  },
+  {
+   "row": "IDDP-2",
+   "url": "https://doi.org/10.5194/sd-23-1-2017",
+   "ok": true,
+   "detail": "doi registry code 1"
+  },
+  {
+   "row": "IDDP-2",
+   "url": "https://doi.org/10.1186/s40517-018-0113-4",
+   "ok": true,
+   "detail": "doi registry code 1"
+  },
+  {
+   "row": "IDDP-2",
+   "url": "https://pangea.stanford.edu/ERE/db/GeoConf/papers/SGW/2026/Kibikas.pdf",
+   "ok": true,
+   "detail": "http 200"
+  },
+  {
+   "row": "Nisyros-1",
+   "url": "https://doi.org/10.1186/s40517-018-0113-4",
+   "ok": true,
+   "detail": "doi registry code 1"
+  },
+  {
+   "row": "Nisyros-1",
+   "url": "https://pangea.stanford.edu/ERE/db/GeoConf/papers/SGW/2026/Kibikas.pdf",
+   "ok": true,
+   "detail": "http 200"
+  },
+  {
+   "row": "Wilson No. 1",
+   "url": "https://doi.org/10.1186/s40517-018-0113-4",
+   "ok": true,
+   "detail": "doi registry code 1"
+  },
+  {
+   "row": "NWG 55-29",
+   "url": "https://gdr.openei.org/submissions/775",
+   "ok": true,
+   "detail": "http 200"
+  },
+  {
+   "row": "Menengai MW-06",
+   "url": "https://pangea.stanford.edu/ERE/db/GeoConf/papers/SGW/2026/Kibikas.pdf",
+   "ok": true,
+   "detail": "http 200"
+  },
+  {
+   "row": "Menengai MW-06",
+   "url": "https://doi.org/10.1186/s40517-018-0113-4",
+   "ok": true,
+   "detail": "doi registry code 1"
+  },
+  {
+   "row": "Sasso-22",
+   "url": "https://doi.org/10.1186/s40517-018-0113-4",
+   "ok": true,
+   "detail": "doi registry code 1"
+  },
+  {
+   "row": "HE-46",
+   "url": "https://opinvisindi.is/items/2a1661c9-f370-47de-9d65-e0a6555596c0",
+   "ok": true,
+   "detail": "http 200"
+  },
+  {
+   "row": "HE-46",
+   "url": "https://doi.org/10.3384/ecp17138391",
+   "ok": true,
+   "detail": "doi registry code 1"
+  },
+  {
+   "row": "HE-13",
+   "url": "https://opinvisindi.is/items/2a1661c9-f370-47de-9d65-e0a6555596c0",
+   "ok": true,
+   "detail": "http 200"
+  },
+  {
+   "row": "RN-22",
+   "url": "https://opinvisindi.is/items/2a1661c9-f370-47de-9d65-e0a6555596c0",
+   "ok": true,
+   "detail": "http 200"
+  },
+  {
+   "row": "RN-32",
+   "url": "https://opinvisindi.is/items/2a1661c9-f370-47de-9d65-e0a6555596c0",
+   "ok": true,
+   "detail": "http 200"
+  },
+  {
+   "row": "Nisyros-2",
+   "url": "https://doi.org/10.1186/s40517-018-0113-4",
+   "ok": true,
+   "detail": "doi registry code 1"
+  },
+  {
+   "row": "KJ-39",
+   "url": "https://doi.org/10.1186/s40517-018-0113-4",
+   "ok": true,
+   "detail": "doi registry code 1"
+  },
+  {
+   "row": "NJ-11",
+   "url": "https://doi.org/10.1186/s40517-018-0113-4",
+   "ok": true,
+   "detail": "doi registry code 1"
+  },
+  {
+   "row": "H-43",
+   "url": "https://doi.org/10.1186/s40517-018-0113-4",
+   "ok": true,
+   "detail": "doi registry code 1"
+  },
+  {
+   "row": "H-43",
+   "url": "https://pangea.stanford.edu/ERE/db/GeoConf/papers/SGW/2026/Kibikas.pdf",
+   "ok": true,
+   "detail": "http 200"
+  },
+  {
+   "row": "KS-13",
+   "url": "https://doi.org/10.1186/s40517-018-0113-4",
+   "ok": true,
+   "detail": "doi registry code 1"
+  },
+  {
+   "row": "Menengai MW-12 and MW-21",
+   "url": "https://pangea.stanford.edu/ERE/db/GeoConf/papers/SGW/2026/Kibikas.pdf",
+   "ok": true,
+   "detail": "http 200"
+  },
+  {
+   "row": "Kakkonda WD-1a",
+   "url": "https://doi.org/10.1186/s40517-018-0113-4",
+   "ok": true,
+   "detail": "doi registry code 1"
+  },
+  {
+   "row": "Kakkonda WD-1a",
+   "url": "https://pangea.stanford.edu/ERE/db/GeoConf/papers/SGW/2026/Kibikas.pdf",
+   "ok": true,
+   "detail": "http 200"
+  },
+  {
+   "row": "Venelle-2",
+   "url": "https://doi.org/10.1186/s40517-018-0113-4",
+   "ok": true,
+   "detail": "doi registry code 1"
+  },
+  {
+   "row": "NJ-37",
+   "url": "https://isor.is/en/frettir/isor-tilnefnt-til-evropskra-nyskopunarverdlauna-2",
+   "ok": true,
+   "detail": "http 200"
+  },
+  {
+   "row": "NJ-37",
+   "url": "https://compass-geothermal.eu/isors-flexible-couplings-technology-recognized-for-geothermal-innovation",
+   "ok": true,
+   "detail": "http 200"
+  },
+  {
+   "row": "HE-53",
+   "url": "https://opinvisindi.is/items/2a1661c9-f370-47de-9d65-e0a6555596c0",
+   "ok": true,
+   "detail": "http 200"
+  }
+ ]
+}
